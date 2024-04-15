@@ -1,0 +1,25 @@
+Chesapeake Bay Program MDNR Dataset
+The lab has previously looked at Chesapeake Bay data from 2010 and earlier – Sujay has the full dataset,
+linked here: https://drive.google.com/file/d/1YfNdirSAxp8N_5CwYcRVOuhxde0AIzm-/view
+We are gathering the data from 2010 to present so as to do analyses – confirm with Sujay if we’d like to
+do analyses for the full dataset or just 2010-present. If we plan to use the full dataset, we may have to
+expand steps listed below to the full dataset, since there may not be a clean file that can easily be used for
+plotting, etc.
+Description of datasets: http://datahub.chesapeakebay.net/
+Water quality data: http://datahub.chesapeakebay.net/WaterQuality
+To download the data:
+-click the “water quality data” link above
+-under “Source,” select “CBP Water Quality Data (1984-Present)”
+-under “Data Type,” select “Water Quality Data”
+-select “1/1/2010” as the start date and today’s date as the end date
+-under “Data Stream,” select “Traditional Partner Data.” It will take a few minutes to load.
+-under “Program,” select “All Programs”
+-under “Geographical Attribute,” select “Monitoring Station.” It will take a few minutes to load.
+-under “Attribute Selection,” select a monitoring station.
+We will want to do analyses for all monitoring stations, but for organization’s sake, it may be
+easier to get data from one site at a time, as all data for all monitoring stations will appear on the
+same sheet of an excel file (it will be easier to work with if each site is in its own sheet, and thus,
+it may be easier to download one site at a time).
+-under “Parameter,” select ALL water quality parameters
+-under “Format,” select CSV
+-you will now have downloaded a csv file that you can open in Excel.
